@@ -1,0 +1,54 @@
+.list-group{
+  background-color:bisque;
+  height:200vh;
+  background-size:cover;
+}
+.reg-con{
+padding:50px;
+}
+.label-head{
+  margin:15px;
+  height:10px;
+  font-size:23px;
+  font-family:'Times New Roman';
+
+}
+.img-a{
+  height:90px;
+  width:90px;
+}
+.form-control{
+  height:6vh;
+}
+.seen{
+  font-size: 30px;
+  font-family: roboto;
+}
+.buttona{
+  color:rgb(31, 56, 31);
+  border-radius: 10px;
+  height:35px;
+  font-size:23px;
+  width:120px;
+  font-family:'Gill Sans';
+  background-color:transparent;
+}
+.img-s{
+  height:900px;
+  width:780px;
+  padding:40px;
+  margin:50px;
+}
+.About{
+  color:brown;
+  font-size: 30px;
+  text-align: left;
+  text-decoration: underline;
+}
+.navbar-image {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+}
+
+
